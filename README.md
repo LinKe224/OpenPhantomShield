@@ -65,3 +65,4 @@ dummy_transformer:
 
 当然你必须为 `ConfigBuilder` 添加你变压器的配置代码
 您可以直接跳转到 `ConfigBuilder` 查看注释
+使用教程：https://www.skidonion.tech/docs/quick-start.html
